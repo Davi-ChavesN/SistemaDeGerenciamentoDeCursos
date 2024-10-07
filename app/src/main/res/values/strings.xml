@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova 1</string>
+    <string name="buscar_curso">Buscar Curso</string>
+    <string name="relat_rio">Relatório</string>
+    <string name="atualizar_curso">Atualizar Curso</string>
+    <string name="adicionar_curso">Adicionar Curso</string>
+    <string name="aplicativo_de_gest_o_de_curso">Aplicativo de Gestão de Curso</string>
+    <string name="voltar">Voltar</string>
+</resources>
